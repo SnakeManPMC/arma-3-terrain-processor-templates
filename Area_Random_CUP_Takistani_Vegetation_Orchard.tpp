@@ -17,7 +17,7 @@
             <Notes>CUP Takistani Vegetation, orchard trees.</Notes>
             <Parameters>
                 <Parameter Name="Random seed" Type="0" Value="100"/>
-                <Parameter Name="Hectare density" Type="0" Value="30"/>
+                <Parameter Name="Hectare density" Type="0" Value="1"/>
             </Parameters>
             <ObjectPrototypes>
                 <ObjectPrototype>

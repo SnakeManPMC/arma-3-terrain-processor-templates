@@ -17,7 +17,7 @@
             <Notes>CUP Chernarus Vegetation, forest with trees and few bushes.</Notes>
             <Parameters>
                 <Parameter Name="Random seed" Type="0" Value="23235"/>
-                <Parameter Name="Hectare density" Type="0" Value="150"/>
+                <Parameter Name="Hectare density" Type="0" Value="1"/>
             </Parameters>
             <ObjectPrototypes>
                 <ObjectPrototype>

@@ -17,7 +17,7 @@
             <Notes>ArmA 3 forest with bushes and small rocks</Notes>
             <Parameters>
                 <Parameter Name="Random seed" Type="0" Value="100"/>
-                <Parameter Name="Hectare density" Type="0" Value="100"/>
+                <Parameter Name="Hectare density" Type="0" Value="1"/>
                 <Parameter Name="Fraction" Type="0" Value="1"/>
                 <Parameter Name="Blend distance" Type="0" Value="5"/>
             </Parameters>

@@ -17,7 +17,7 @@
             <Notes>CUP Chernarus Vegetation, bushes for farms.</Notes>
             <Parameters>
                 <Parameter Name="Random seed" Type="0" Value="100"/>
-                <Parameter Name="Hectare density" Type="0" Value="5"/>
+                <Parameter Name="Hectare density" Type="0" Value="1"/>
             </Parameters>
             <ObjectPrototypes>
                 <ObjectPrototype>
