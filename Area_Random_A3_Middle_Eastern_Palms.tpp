@@ -23,16 +23,16 @@
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="t_PhoenixC1s_F"/>
                     <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="5"/>
+                    <Parameter Name="MINHEIGHT" Value="75"/>
+                    <Parameter Name="MAXHEIGHT" Value="125"/>
+                    <Parameter Name="MINDIST" Value="6"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="t_PhoenixC3s_F"/>
                     <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="5"/>
+                    <Parameter Name="MINHEIGHT" Value="75"/>
+                    <Parameter Name="MAXHEIGHT" Value="125"/>
+                    <Parameter Name="MINDIST" Value="6"/>
                 </ObjectPrototype>
             </ObjectPrototypes>
             <AdditionalDatabases/>
