@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
     <Version>79</Version>
-    <Name>Area_Random_PMC_OPX_Buildings</Name>
+    <Name>Residential</Name>
     <ExportSettings>
         <Directory></Directory>
         <ExportLBT>1</ExportLBT>
@@ -14,7 +14,7 @@
             <DEMInputFilename></DEMInputFilename>
             <DEMOutputFilename></DEMOutputFilename>
             <Enabled>1</Enabled>
-            <Notes>PMC OPX, buildings</Notes>
+            <Notes>PMC Opteryx Objects, buildings, residential</Notes>
             <Parameters>
                 <Parameter Name="Random seed" Type="0" Value="287153"/>
                 <Parameter Name="Hectare density" Type="0" Value="10"/>
@@ -25,175 +25,175 @@
                     <Parameter Name="PROB" Value="100"/>
                     <Parameter Name="MINHEIGHT" Value="100"/>
                     <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
+                    <Parameter Name="MINDIST" Value="60"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="pmc_opx_apartmentcomplex_wip"/>
                     <Parameter Name="PROB" Value="100"/>
                     <Parameter Name="MINHEIGHT" Value="100"/>
                     <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
+                    <Parameter Name="MINDIST" Value="60"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="pmc_opx_apartmentcomplex4"/>
                     <Parameter Name="PROB" Value="100"/>
                     <Parameter Name="MINHEIGHT" Value="100"/>
                     <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
+                    <Parameter Name="MINDIST" Value="60"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="pmc_opx_apartmentcomplex5"/>
                     <Parameter Name="PROB" Value="100"/>
                     <Parameter Name="MINHEIGHT" Value="100"/>
                     <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
+                    <Parameter Name="MINDIST" Value="60"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="pmc_opx_big"/>
                     <Parameter Name="PROB" Value="100"/>
                     <Parameter Name="MINHEIGHT" Value="100"/>
                     <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
+                    <Parameter Name="MINDIST" Value="60"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="pmc_opx_big_b"/>
                     <Parameter Name="PROB" Value="100"/>
                     <Parameter Name="MINHEIGHT" Value="100"/>
                     <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
+                    <Parameter Name="MINDIST" Value="60"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="pmc_opx_big_d"/>
                     <Parameter Name="PROB" Value="100"/>
                     <Parameter Name="MINHEIGHT" Value="100"/>
                     <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
+                    <Parameter Name="MINDIST" Value="60"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="pmc_opx_big_e"/>
                     <Parameter Name="PROB" Value="100"/>
                     <Parameter Name="MINHEIGHT" Value="100"/>
                     <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
+                    <Parameter Name="MINDIST" Value="60"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="pmc_opx_big_f"/>
                     <Parameter Name="PROB" Value="100"/>
                     <Parameter Name="MINHEIGHT" Value="100"/>
                     <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
+                    <Parameter Name="MINDIST" Value="60"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="pmc_opx_block1"/>
                     <Parameter Name="PROB" Value="100"/>
                     <Parameter Name="MINHEIGHT" Value="100"/>
                     <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
+                    <Parameter Name="MINDIST" Value="60"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="pmc_opx_complex1"/>
                     <Parameter Name="PROB" Value="100"/>
                     <Parameter Name="MINHEIGHT" Value="100"/>
                     <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
+                    <Parameter Name="MINDIST" Value="60"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="pmc_opx_complex2"/>
                     <Parameter Name="PROB" Value="100"/>
                     <Parameter Name="MINHEIGHT" Value="100"/>
                     <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
+                    <Parameter Name="MINDIST" Value="60"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="pmc_opx_complex3"/>
                     <Parameter Name="PROB" Value="100"/>
                     <Parameter Name="MINHEIGHT" Value="100"/>
                     <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
+                    <Parameter Name="MINDIST" Value="60"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="pmc_opx_complex4"/>
                     <Parameter Name="PROB" Value="100"/>
                     <Parameter Name="MINHEIGHT" Value="100"/>
                     <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
+                    <Parameter Name="MINDIST" Value="60"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="pmc_opx_complex5"/>
                     <Parameter Name="PROB" Value="100"/>
                     <Parameter Name="MINHEIGHT" Value="100"/>
                     <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
+                    <Parameter Name="MINDIST" Value="60"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="pmc_opx_complex6"/>
                     <Parameter Name="PROB" Value="100"/>
                     <Parameter Name="MINHEIGHT" Value="100"/>
                     <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
+                    <Parameter Name="MINDIST" Value="60"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="pmc_opx_complex7"/>
                     <Parameter Name="PROB" Value="100"/>
                     <Parameter Name="MINHEIGHT" Value="100"/>
                     <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
+                    <Parameter Name="MINDIST" Value="60"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="pmc_opx_complex8"/>
                     <Parameter Name="PROB" Value="100"/>
                     <Parameter Name="MINHEIGHT" Value="100"/>
                     <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
+                    <Parameter Name="MINDIST" Value="60"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="pmc_opx_complex9"/>
                     <Parameter Name="PROB" Value="100"/>
                     <Parameter Name="MINHEIGHT" Value="100"/>
                     <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
+                    <Parameter Name="MINDIST" Value="60"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="pmc_opx_construct1"/>
                     <Parameter Name="PROB" Value="100"/>
                     <Parameter Name="MINHEIGHT" Value="100"/>
                     <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
+                    <Parameter Name="MINDIST" Value="60"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="pmc_opx_construct2"/>
                     <Parameter Name="PROB" Value="100"/>
                     <Parameter Name="MINHEIGHT" Value="100"/>
                     <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
+                    <Parameter Name="MINDIST" Value="60"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="pmc_opx_construct3"/>
                     <Parameter Name="PROB" Value="100"/>
                     <Parameter Name="MINHEIGHT" Value="100"/>
                     <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
+                    <Parameter Name="MINDIST" Value="60"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="pmc_opx_construct4"/>
                     <Parameter Name="PROB" Value="100"/>
                     <Parameter Name="MINHEIGHT" Value="100"/>
                     <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
+                    <Parameter Name="MINDIST" Value="60"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="pmc_opx_corner1"/>
                     <Parameter Name="PROB" Value="100"/>
                     <Parameter Name="MINHEIGHT" Value="100"/>
                     <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
+                    <Parameter Name="MINDIST" Value="60"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="pmc_opx_corner2"/>
                     <Parameter Name="PROB" Value="100"/>
                     <Parameter Name="MINHEIGHT" Value="100"/>
                     <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
+                    <Parameter Name="MINDIST" Value="60"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="pmc_opx_cornershop1"/>
@@ -497,41 +497,6 @@
                     <Parameter Name="MINDIST" Value="20"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
-                    <Parameter Name="OBJECT" Value="pmc_opx_store1"/>
-                    <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
-                </ObjectPrototype>
-                <ObjectPrototype>
-                    <Parameter Name="OBJECT" Value="pmc_opx_stores1"/>
-                    <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
-                </ObjectPrototype>
-                <ObjectPrototype>
-                    <Parameter Name="OBJECT" Value="pmc_opx_stores2"/>
-                    <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
-                </ObjectPrototype>
-                <ObjectPrototype>
-                    <Parameter Name="OBJECT" Value="pmc_opx_stores3"/>
-                    <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
-                </ObjectPrototype>
-                <ObjectPrototype>
-                    <Parameter Name="OBJECT" Value="pmc_opx_vcp1"/>
-                    <Parameter Name="PROB" Value="5"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
-                </ObjectPrototype>
-                <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="pmc_opx_watertower"/>
                     <Parameter Name="PROB" Value="20"/>
                     <Parameter Name="MINHEIGHT" Value="100"/>
@@ -659,34 +624,6 @@
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="pmc_opx_carton2"/>
-                    <Parameter Name="PROB" Value="5"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
-                </ObjectPrototype>
-                <ObjectPrototype>
-                    <Parameter Name="OBJECT" Value="pmc_opx_marketstand1"/>
-                    <Parameter Name="PROB" Value="5"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
-                </ObjectPrototype>
-                <ObjectPrototype>
-                    <Parameter Name="OBJECT" Value="pmc_opx_marketstand1_b"/>
-                    <Parameter Name="PROB" Value="5"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
-                </ObjectPrototype>
-                <ObjectPrototype>
-                    <Parameter Name="OBJECT" Value="pmc_opx_marketstand2"/>
-                    <Parameter Name="PROB" Value="5"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="20"/>
-                </ObjectPrototype>
-                <ObjectPrototype>
-                    <Parameter Name="OBJECT" Value="pmc_opx_marketstand2_b"/>
                     <Parameter Name="PROB" Value="5"/>
                     <Parameter Name="MINHEIGHT" Value="100"/>
                     <Parameter Name="MAXHEIGHT" Value="100"/>
