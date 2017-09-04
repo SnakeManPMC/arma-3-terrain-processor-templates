@@ -23,120 +23,106 @@
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="b_amygdalusn1s_ep1"/>
                     <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
+                    <Parameter Name="MINHEIGHT" Value="75"/>
+                    <Parameter Name="MAXHEIGHT" Value="125"/>
                     <Parameter Name="MINDIST" Value="5"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="b_pinusm1s_ep1"/>
                     <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
+                    <Parameter Name="MINHEIGHT" Value="75"/>
+                    <Parameter Name="MAXHEIGHT" Value="125"/>
                     <Parameter Name="MINDIST" Value="5"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="b_pistacial1s_ep1"/>
                     <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="5"/>
-                </ObjectPrototype>
-                <ObjectPrototype>
-                    <Parameter Name="OBJECT" Value="p_fiberplant_ep1"/>
-                    <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
-                    <Parameter Name="MINDIST" Value="5"/>
-                </ObjectPrototype>
-                <ObjectPrototype>
-                    <Parameter Name="OBJECT" Value="p_papaver_ep1"/>
-                    <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
+                    <Parameter Name="MINHEIGHT" Value="75"/>
+                    <Parameter Name="MAXHEIGHT" Value="125"/>
                     <Parameter Name="MINDIST" Value="5"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="p_wheat_ep1"/>
                     <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
+                    <Parameter Name="MINHEIGHT" Value="75"/>
+                    <Parameter Name="MAXHEIGHT" Value="125"/>
                     <Parameter Name="MINDIST" Value="5"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="misc_trunk_torzo_ep1"/>
                     <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
+                    <Parameter Name="MINHEIGHT" Value="75"/>
+                    <Parameter Name="MAXHEIGHT" Value="125"/>
                     <Parameter Name="MINDIST" Value="5"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="misc_trunk_water_ep1"/>
                     <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
+                    <Parameter Name="MINHEIGHT" Value="75"/>
+                    <Parameter Name="MAXHEIGHT" Value="125"/>
                     <Parameter Name="MINDIST" Value="5"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="t_amygdalusc2s_ep1"/>
                     <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
+                    <Parameter Name="MINHEIGHT" Value="75"/>
+                    <Parameter Name="MAXHEIGHT" Value="125"/>
                     <Parameter Name="MINDIST" Value="5"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="t_ficusb2s_ep1"/>
                     <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
+                    <Parameter Name="MINHEIGHT" Value="75"/>
+                    <Parameter Name="MAXHEIGHT" Value="125"/>
                     <Parameter Name="MINDIST" Value="5"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="t_juniperusc2s_ep1"/>
                     <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
+                    <Parameter Name="MINHEIGHT" Value="75"/>
+                    <Parameter Name="MAXHEIGHT" Value="125"/>
                     <Parameter Name="MINDIST" Value="5"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="t_pinuse2s_ep1"/>
                     <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
+                    <Parameter Name="MINHEIGHT" Value="75"/>
+                    <Parameter Name="MAXHEIGHT" Value="125"/>
                     <Parameter Name="MINDIST" Value="5"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="t_pinuss3s_ep1"/>
                     <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
+                    <Parameter Name="MINHEIGHT" Value="75"/>
+                    <Parameter Name="MAXHEIGHT" Value="125"/>
                     <Parameter Name="MINDIST" Value="5"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="t_pistacial2s_ep1"/>
                     <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
+                    <Parameter Name="MINHEIGHT" Value="75"/>
+                    <Parameter Name="MAXHEIGHT" Value="125"/>
                     <Parameter Name="MINDIST" Value="5"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="t_populusb2s_ep1"/>
                     <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
+                    <Parameter Name="MINHEIGHT" Value="75"/>
+                    <Parameter Name="MAXHEIGHT" Value="125"/>
                     <Parameter Name="MINDIST" Value="5"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="t_populusf2s_ep1"/>
                     <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
+                    <Parameter Name="MINHEIGHT" Value="75"/>
+                    <Parameter Name="MAXHEIGHT" Value="125"/>
                     <Parameter Name="MINDIST" Value="5"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="t_prunuss2s_ep1"/>
                     <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
+                    <Parameter Name="MINHEIGHT" Value="75"/>
+                    <Parameter Name="MAXHEIGHT" Value="125"/>
                     <Parameter Name="MINDIST" Value="5"/>
                 </ObjectPrototype>
             </ObjectPrototypes>

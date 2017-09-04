@@ -23,8 +23,8 @@
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="b_amygdalusn1s_ep1"/>
                     <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
+                    <Parameter Name="MINHEIGHT" Value="75"/>
+                    <Parameter Name="MAXHEIGHT" Value="125"/>
                     <Parameter Name="MINDIST" Value="5"/>
                 </ObjectPrototype>
             </ObjectPrototypes>
