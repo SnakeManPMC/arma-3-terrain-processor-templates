@@ -95,5 +95,19 @@
             </ObjectPrototypes>
             <AdditionalDatabases/>
         </Task>
+        <Task>
+            <Shapefile>roads.shp</Shapefile>
+            <TaskName>Mask: Linear</TaskName>
+            <DEMInputFilename></DEMInputFilename>
+            <DEMOutputFilename></DEMOutputFilename>
+            <Enabled>1</Enabled>
+            <Notes>Notes</Notes>
+            <Parameters>
+                <Parameter Name="Objects distance" Type="0" Value="5"/>
+                <Parameter Name="Spline interpolation" Type="0" Value="0"/>
+            </Parameters>
+            <ObjectPrototypes/>
+            <AdditionalDatabases/>
+        </Task>
     </Tasks>
 </Project>

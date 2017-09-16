@@ -94,7 +94,7 @@
             <Enabled>1</Enabled>
             <Notes>Notes</Notes>
             <Parameters>
-                <Parameter Name="Objects distance" Type="0" Value="30"/>
+                <Parameter Name="Objects distance" Type="0" Value="5"/>
                 <Parameter Name="Spline interpolation" Type="0" Value="0"/>
             </Parameters>
             <ObjectPrototypes/>
