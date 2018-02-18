@@ -23,85 +23,85 @@
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="t_cocos_bend_f"/>
                     <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
+                    <Parameter Name="MINHEIGHT" Value="75"/>
+                    <Parameter Name="MAXHEIGHT" Value="125"/>
                     <Parameter Name="MINDIST" Value="5"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="t_Cocos_small_F"/>
                     <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
+                    <Parameter Name="MINHEIGHT" Value="75"/>
+                    <Parameter Name="MAXHEIGHT" Value="125"/>
                     <Parameter Name="MINDIST" Value="5"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="t_Cocos_tall_F"/>
                     <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
+                    <Parameter Name="MINHEIGHT" Value="75"/>
+                    <Parameter Name="MAXHEIGHT" Value="125"/>
                     <Parameter Name="MINDIST" Value="5"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="t_CocosNucifera2s_small_F"/>
                     <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
+                    <Parameter Name="MINHEIGHT" Value="75"/>
+                    <Parameter Name="MAXHEIGHT" Value="125"/>
                     <Parameter Name="MINDIST" Value="5"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="t_CocosNucifera3s_bend_F"/>
                     <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
+                    <Parameter Name="MINHEIGHT" Value="75"/>
+                    <Parameter Name="MAXHEIGHT" Value="125"/>
                     <Parameter Name="MINDIST" Value="5"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="t_CocosNucifera3s_tall_F"/>
                     <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
+                    <Parameter Name="MINHEIGHT" Value="75"/>
+                    <Parameter Name="MAXHEIGHT" Value="125"/>
                     <Parameter Name="MINDIST" Value="5"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="t_Cyathea_F"/>
                     <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
+                    <Parameter Name="MINHEIGHT" Value="75"/>
+                    <Parameter Name="MAXHEIGHT" Value="125"/>
                     <Parameter Name="MINDIST" Value="5"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="t_Banana_F"/>
                     <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
+                    <Parameter Name="MINHEIGHT" Value="75"/>
+                    <Parameter Name="MAXHEIGHT" Value="125"/>
                     <Parameter Name="MINDIST" Value="5"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="t_Banana_slim_F"/>
                     <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
+                    <Parameter Name="MINHEIGHT" Value="75"/>
+                    <Parameter Name="MAXHEIGHT" Value="125"/>
                     <Parameter Name="MINDIST" Value="5"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="t_Banana_wild_F"/>
                     <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
+                    <Parameter Name="MINHEIGHT" Value="75"/>
+                    <Parameter Name="MAXHEIGHT" Value="125"/>
                     <Parameter Name="MINDIST" Value="5"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="t_Ficus_big_F"/>
                     <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
+                    <Parameter Name="MINHEIGHT" Value="75"/>
+                    <Parameter Name="MAXHEIGHT" Value="125"/>
                     <Parameter Name="MINDIST" Value="5"/>
                 </ObjectPrototype>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="t_Inocarpus_F"/>
                     <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="100"/>
-                    <Parameter Name="MAXHEIGHT" Value="100"/>
+                    <Parameter Name="MINHEIGHT" Value="75"/>
+                    <Parameter Name="MAXHEIGHT" Value="125"/>
                     <Parameter Name="MINDIST" Value="5"/>
                 </ObjectPrototype>
             </ObjectPrototypes>

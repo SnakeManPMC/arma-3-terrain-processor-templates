@@ -27,8 +27,6 @@
                     <Parameter Name="MAXHEIGHT" Value="100"/>
                     <Parameter Name="MINDIST" Value="20"/>
                 </ObjectPrototype>
-            </ObjectPrototypes>
-            <ObjectPrototypes>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="dum_istan2_01"/>
                     <Parameter Name="PROB" Value="100"/>
@@ -36,8 +34,6 @@
                     <Parameter Name="MAXHEIGHT" Value="100"/>
                     <Parameter Name="MINDIST" Value="20"/>
                 </ObjectPrototype>
-            </ObjectPrototypes>
-            <ObjectPrototypes>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="dum_istan2_02"/>
                     <Parameter Name="PROB" Value="100"/>
@@ -45,8 +41,6 @@
                     <Parameter Name="MAXHEIGHT" Value="100"/>
                     <Parameter Name="MINDIST" Value="20"/>
                 </ObjectPrototype>
-            </ObjectPrototypes>
-            <ObjectPrototypes>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="dum_istan2_03"/>
                     <Parameter Name="PROB" Value="100"/>
@@ -54,8 +48,6 @@
                     <Parameter Name="MAXHEIGHT" Value="100"/>
                     <Parameter Name="MINDIST" Value="20"/>
                 </ObjectPrototype>
-            </ObjectPrototypes>
-            <ObjectPrototypes>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="dum_istan2_03a"/>
                     <Parameter Name="PROB" Value="100"/>
@@ -63,8 +55,6 @@
                     <Parameter Name="MAXHEIGHT" Value="100"/>
                     <Parameter Name="MINDIST" Value="20"/>
                 </ObjectPrototype>
-            </ObjectPrototypes>
-            <ObjectPrototypes>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="dum_istan2_04a"/>
                     <Parameter Name="PROB" Value="100"/>
@@ -72,8 +62,6 @@
                     <Parameter Name="MAXHEIGHT" Value="100"/>
                     <Parameter Name="MINDIST" Value="20"/>
                 </ObjectPrototype>
-            </ObjectPrototypes>
-            <ObjectPrototypes>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="dum_istan2b"/>
                     <Parameter Name="PROB" Value="100"/>
@@ -81,8 +69,6 @@
                     <Parameter Name="MAXHEIGHT" Value="100"/>
                     <Parameter Name="MINDIST" Value="20"/>
                 </ObjectPrototype>
-            </ObjectPrototypes>
-            <ObjectPrototypes>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="dum_istan3"/>
                     <Parameter Name="PROB" Value="100"/>
@@ -90,8 +76,6 @@
                     <Parameter Name="MAXHEIGHT" Value="100"/>
                     <Parameter Name="MINDIST" Value="20"/>
                 </ObjectPrototype>
-            </ObjectPrototypes>
-            <ObjectPrototypes>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="dum_istan3_hromada"/>
                     <Parameter Name="PROB" Value="100"/>
@@ -99,8 +83,6 @@
                     <Parameter Name="MAXHEIGHT" Value="100"/>
                     <Parameter Name="MINDIST" Value="20"/>
                 </ObjectPrototype>
-            </ObjectPrototypes>
-            <ObjectPrototypes>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="dum_istan3_hromada2"/>
                     <Parameter Name="PROB" Value="100"/>
@@ -108,8 +90,6 @@
                     <Parameter Name="MAXHEIGHT" Value="100"/>
                     <Parameter Name="MINDIST" Value="20"/>
                 </ObjectPrototype>
-            </ObjectPrototypes>
-            <ObjectPrototypes>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="dum_istan3_pumpa"/>
                     <Parameter Name="PROB" Value="100"/>
@@ -117,8 +97,6 @@
                     <Parameter Name="MAXHEIGHT" Value="100"/>
                     <Parameter Name="MINDIST" Value="20"/>
                 </ObjectPrototype>
-            </ObjectPrototypes>
-            <ObjectPrototypes>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="dum_istan4"/>
                     <Parameter Name="PROB" Value="100"/>
@@ -126,8 +104,6 @@
                     <Parameter Name="MAXHEIGHT" Value="100"/>
                     <Parameter Name="MINDIST" Value="20"/>
                 </ObjectPrototype>
-            </ObjectPrototypes>
-            <ObjectPrototypes>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="dum_istan4_big"/>
                     <Parameter Name="PROB" Value="100"/>
@@ -135,8 +111,6 @@
                     <Parameter Name="MAXHEIGHT" Value="100"/>
                     <Parameter Name="MINDIST" Value="20"/>
                 </ObjectPrototype>
-            </ObjectPrototypes>
-            <ObjectPrototypes>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="dum_istan4_big_inverse"/>
                     <Parameter Name="PROB" Value="100"/>
@@ -144,8 +118,6 @@
                     <Parameter Name="MAXHEIGHT" Value="100"/>
                     <Parameter Name="MINDIST" Value="20"/>
                 </ObjectPrototype>
-            </ObjectPrototypes>
-            <ObjectPrototypes>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="dum_istan4_detaily1"/>
                     <Parameter Name="PROB" Value="100"/>
@@ -153,8 +125,6 @@
                     <Parameter Name="MAXHEIGHT" Value="100"/>
                     <Parameter Name="MINDIST" Value="20"/>
                 </ObjectPrototype>
-            </ObjectPrototypes>
-            <ObjectPrototypes>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="dum_istan4_inverse"/>
                     <Parameter Name="PROB" Value="100"/>
@@ -162,8 +132,6 @@
                     <Parameter Name="MAXHEIGHT" Value="100"/>
                     <Parameter Name="MINDIST" Value="20"/>
                 </ObjectPrototype>
-            </ObjectPrototypes>
-            <ObjectPrototypes>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="dum_mesto3_istan"/>
                     <Parameter Name="PROB" Value="100"/>
@@ -171,8 +139,6 @@
                     <Parameter Name="MAXHEIGHT" Value="100"/>
                     <Parameter Name="MINDIST" Value="20"/>
                 </ObjectPrototype>
-            </ObjectPrototypes>
-            <ObjectPrototypes>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="dum_olez_istan1"/>
                     <Parameter Name="PROB" Value="100"/>
@@ -180,8 +146,6 @@
                     <Parameter Name="MAXHEIGHT" Value="100"/>
                     <Parameter Name="MINDIST" Value="20"/>
                 </ObjectPrototype>
-            </ObjectPrototypes>
-            <ObjectPrototypes>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="dum_olez_istan2"/>
                     <Parameter Name="PROB" Value="100"/>
@@ -189,8 +153,6 @@
                     <Parameter Name="MAXHEIGHT" Value="100"/>
                     <Parameter Name="MINDIST" Value="20"/>
                 </ObjectPrototype>
-            </ObjectPrototypes>
-            <ObjectPrototypes>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="dum_olez_istan2_maly"/>
                     <Parameter Name="PROB" Value="100"/>
@@ -198,8 +160,6 @@
                     <Parameter Name="MAXHEIGHT" Value="100"/>
                     <Parameter Name="MINDIST" Value="20"/>
                 </ObjectPrototype>
-            </ObjectPrototypes>
-            <ObjectPrototypes>
                 <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="dum_olez_istan2_maly2"/>
                     <Parameter Name="PROB" Value="100"/>
