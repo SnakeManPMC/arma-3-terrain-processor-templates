@@ -21,13 +21,6 @@
             </Parameters>
             <ObjectPrototypes>
                 <ObjectPrototype>
-                    <Parameter Name="OBJECT" Value="t_cocos_bend_f"/>
-                    <Parameter Name="PROB" Value="100"/>
-                    <Parameter Name="MINHEIGHT" Value="75"/>
-                    <Parameter Name="MAXHEIGHT" Value="125"/>
-                    <Parameter Name="MINDIST" Value="5"/>
-                </ObjectPrototype>
-                <ObjectPrototype>
                     <Parameter Name="OBJECT" Value="t_Cocos_small_F"/>
                     <Parameter Name="PROB" Value="100"/>
                     <Parameter Name="MINHEIGHT" Value="75"/>
